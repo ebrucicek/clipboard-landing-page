@@ -1,0 +1,1 @@
+# Clipboard Landing Page Projesi (Figma) Bu Repo'da
