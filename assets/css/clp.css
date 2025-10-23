@@ -1,5 +1,5 @@
 * {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Bai Jamjuree";
@@ -20,6 +20,10 @@ h6 {
 
 p {
   color: #9eabb2;
+}
+
+.container{
+  margin: auto;
 }
 
 /* Hero Section Start */
@@ -96,6 +100,7 @@ p {
   text-align: center;
   line-height: 30px;
   font-weight: 400;
+  margin-inline: 355px;
 }
 
 .snippets-content {
